@@ -19,7 +19,7 @@ body {
     border: 2px;
 }
 
-.content {
+.maiin_content {
 
     color: blue;
     width: auto;
@@ -39,6 +39,11 @@ body {
     margin-inline-start: 10px;
     margin-inline-end: 10px;
     font-size: 30px;
+}
+
+img.title {
+    display: block;
+    margin: 0px auto 0px auto;
 }
 
 #Footer p {
