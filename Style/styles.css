@@ -56,8 +56,6 @@ img.title {
     margin: 40px auto 0px auto;
     background-color: rgb(11, 11, 131, 0.2);
     font-size: 20px;
-    
-
 }
 
 .sub_content > h1 {
@@ -74,7 +72,7 @@ div#Content {
     background-color: black;
     border: 6px inset darkgray;
     color: blueviolet;
-    height: 500px;
+    height: 700px;
     text-align: center;
 }
 
