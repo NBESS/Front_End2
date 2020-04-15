@@ -1,0 +1,40 @@
+#Header {
+    background-image: url("../Resources/Stars.gif");
+    margin: 0px auto 10px auto;
+    height: 100px;
+    padding: 5px;
+} 
+
+#Header > p {
+
+    text-align: center;
+    color: blueviolet;
+    font-size:75px;
+    margin: auto;
+}
+
+body {
+    
+    background-image: url("../Resources/metal-floor-background-pattern-554.png");
+    border: 2px;
+}
+
+div.sidebar {
+
+    background-color: black;
+    color: red;
+    float: left;
+    width: 32%;
+    border: 3px darkgrey;
+    border-style: ridge;
+}
+
+.wrapper {
+    
+    background-color: aqua;
+    text-align: center;
+    margin-left: 33%;
+    box-shadow: 1px 2px 1px black;
+    height: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
