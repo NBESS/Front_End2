@@ -46,6 +46,23 @@ img.title {
     display: block;
     margin: 0px auto 0px auto;
     box-shadow: 5px 5px 5px cyan;
+    z-index: 10;
+}
+
+.sub_content {
+
+    border: 6px double black;
+    height: 600px;
+    width: 1000px;
+    padding: 100px 40px;
+    margin: 0 auto;
+    position: relative;
+    bottom: 47px;
+    z-index: 5;
+
+
+
+
 }
 
 #Footer p {
